@@ -1,0 +1,4 @@
+seed: 42
+position_tolerance_m: 0.02
+yaw_tolerance_deg: 5.0
+num_trials: 30

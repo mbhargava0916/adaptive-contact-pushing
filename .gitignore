@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+*.usd
+*.usda
+*.usdc
+results/*
+!results/.gitkeep
+.DS_Store

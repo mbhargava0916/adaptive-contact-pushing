@@ -1,0 +1,11 @@
+nominal:
+  static: 0.5
+  dynamic: 0.4
+low:
+  static: 0.2
+  dynamic: 0.15
+patch:
+  background_static: 0.5
+  background_dynamic: 0.4
+  patch_static: 0.9
+  patch_dynamic: 0.75
