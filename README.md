@@ -16,8 +16,6 @@ First milestone: validate one scripted push and record initial/final object pose
 
 Scaffold only; simulation integration is not yet implemented.
 
-## Research question
-
 How does a fixed pushing action degrade when object geometry, friction, and initial conditions vary?
 =======
 # adaptive-contact-pushing
