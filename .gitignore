@@ -1,10 +1,18 @@
+# Python
 __pycache__/
 *.py[cod]
 .venv/
-.vscode/
-*.usd
-*.usda
+
+# Isaac Sim / Omniverse
+*.log
 *.usdc
-results/*
-!results/.gitkeep
+*.usd~
+*.usda~
+
+# Generated experiment data
+results/*.csv
+results/**/*.csv
+
+# Temporary files
 .DS_Store
+Thumbs.db
