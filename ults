@@ -1,0 +1,22 @@
+ .gitignore                                |  18 [32m+++++++++++++[m[31m-----[m
+ results/contact_displacement.png          | Bin [31m0[m -> [32m79754[m bytes
+ results/contact_gap.png                   | Bin [31m0[m -> [32m103117[m bytes
+ results/contact_velocity.png              | Bin [31m0[m -> [32m165223[m bytes
+ results/contact_velocity_zoom.png         | Bin [31m0[m -> [32m186348[m bytes
+ results/friction_comparison.png           | Bin [31m0[m -> [32m60891[m bytes
+ results/friction_patch_displacement.png   | Bin [31m0[m -> [32m80815[m bytes
+ results/friction_patch_velocity.png       | Bin [31m0[m -> [32m115507[m bytes
+ results/localized_patch_difference.png    | Bin [31m0[m -> [32m57838[m bytes
+ results/localized_patch_displacement.png  | Bin [31m0[m -> [32m77104[m bytes
+ results/localized_patch_velocity.png      | Bin [31m0[m -> [32m70372[m bytes
+ results/plot_friction_comparision.png     | Bin [31m0[m -> [32m30855[m bytes
+ results/release_friction_displacement.png | Bin [31m0[m -> [32m66940[m bytes
+ results/release_friction_patch_effect.png | Bin [31m0[m -> [32m63213[m bytes
+ results/release_friction_velocity.png     | Bin [31m0[m -> [32m68224[m bytes
+ results/repeatability_final_deviation.png | Bin [31m0[m -> [32m38713[m bytes
+ results/repeatability_trajectories.png    | Bin [31m0[m -> [32m58516[m bytes
+ results/smooth_contact_displacement.png   | Bin [31m0[m -> [32m77781[m bytes
+ results/smooth_contact_gap.png            | Bin [31m0[m -> [32m93608[m bytes
+ results/smooth_contact_velocity.png       | Bin [31m0[m -> [32m94285[m bytes
+ results/smooth_contact_velocity_zoom.png  | Bin [31m0[m -> [32m150541[m bytes
+ 21 files changed, 13 insertions(+), 5 deletions(-)
