@@ -1,0 +1,22 @@
+{
+  "trial_id": "T12",
+  "shape": "cube",
+  "contact": "patch",
+  "pass_num": 1,
+  "seed": 20261030,
+  "is_repeat": false,
+  "repeat_of": "",
+  "offset_x_m": -0.000964223148419483,
+  "offset_y_m": -0.0005248236294760665,
+  "initial_yaw_deg": 2.8773665275376743,
+  "mass_kg": 0.18592360054266363,
+  "hz": 240,
+  "initial_x_m": -0.000964162580203265,
+  "final_dx_mm": 86.48443006677553,
+  "final_dy_mm": -14.154507254716009,
+  "final_yaw_change_deg": -2.1359137919851037,
+  "position_error_mm": 14.37630577418104,
+  "yaw_error_deg": 2.1359137919851037,
+  "peak_pitch_deg": 0.008429050050600823,
+  "success": 1
+}

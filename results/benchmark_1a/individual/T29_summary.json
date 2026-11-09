@@ -1,0 +1,22 @@
+{
+  "trial_id": "T29",
+  "shape": "rectangle",
+  "contact": "nominal",
+  "pass_num": 3,
+  "seed": 20261030,
+  "is_repeat": true,
+  "repeat_of": "T04",
+  "offset_x_m": 0.0,
+  "offset_y_m": 0.0,
+  "initial_yaw_deg": 0.0,
+  "mass_kg": 0.2,
+  "hz": 240,
+  "initial_x_m": 1.545847538864109e-08,
+  "final_dx_mm": 98.99925384818431,
+  "final_dy_mm": -0.012591433630859683,
+  "final_yaw_change_deg": -0.008478114111483137,
+  "position_error_mm": 9.999261775982745,
+  "yaw_error_deg": 0.008478114111483137,
+  "peak_pitch_deg": 0.006012083342455796,
+  "success": 1
+}

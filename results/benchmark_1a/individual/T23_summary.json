@@ -1,0 +1,22 @@
+{
+  "trial_id": "T23",
+  "shape": "rectangle",
+  "contact": "low",
+  "pass_num": 2,
+  "seed": 20261030,
+  "is_repeat": false,
+  "repeat_of": "",
+  "offset_x_m": -0.0023755184765609947,
+  "offset_y_m": -0.000395952182349378,
+  "initial_yaw_deg": -1.3855646254240854,
+  "mass_kg": 0.1888947381869073,
+  "hz": 240,
+  "initial_x_m": -0.0023755060974508524,
+  "final_dx_mm": 150.5479293409735,
+  "final_dy_mm": 15.576508245430887,
+  "final_yaw_change_deg": 23.828011137768556,
+  "position_error_mm": 63.488386459898656,
+  "yaw_error_deg": 23.828011137768556,
+  "peak_pitch_deg": 0.0020258742601803,
+  "success": 0
+}

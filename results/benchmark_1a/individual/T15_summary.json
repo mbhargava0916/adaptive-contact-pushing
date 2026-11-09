@@ -1,0 +1,22 @@
+{
+  "trial_id": "T15",
+  "shape": "rectangle",
+  "contact": "patch",
+  "pass_num": 1,
+  "seed": 20261030,
+  "is_repeat": false,
+  "repeat_of": "",
+  "offset_x_m": -9.496507030801399e-05,
+  "offset_y_m": -0.0006416171694066572,
+  "initial_yaw_deg": 1.649391554057262,
+  "mass_kg": 0.18737336870551694,
+  "hz": 240,
+  "initial_x_m": -9.494613914284855e-05,
+  "final_dx_mm": 90.10798823146615,
+  "final_dy_mm": -6.308501237072051,
+  "final_yaw_change_deg": -11.854357614876278,
+  "position_error_mm": 6.405062511732972,
+  "yaw_error_deg": 11.854357614876278,
+  "peak_pitch_deg": 0.0014588065789465417,
+  "success": 0
+}

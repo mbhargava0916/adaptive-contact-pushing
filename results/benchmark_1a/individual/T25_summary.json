@@ -1,0 +1,22 @@
+{
+  "trial_id": "T25",
+  "shape": "cylinder",
+  "contact": "nominal",
+  "pass_num": 2,
+  "seed": 20261030,
+  "is_repeat": false,
+  "repeat_of": "",
+  "offset_x_m": 0.0020001285805251188,
+  "offset_y_m": 0.0001292929472496841,
+  "initial_yaw_deg": -1.792385122643457,
+  "mass_kg": 0.20153759927892742,
+  "hz": 240,
+  "initial_x_m": 0.0020001137163490057,
+  "final_dx_mm": 86.87887550331652,
+  "final_dy_mm": -2.0194765675114468,
+  "final_yaw_change_deg": -6.436907830942459,
+  "position_error_mm": 2.928729201745794,
+  "yaw_error_deg": "",
+  "peak_pitch_deg": 0.0007861580948868299,
+  "success": 1
+}

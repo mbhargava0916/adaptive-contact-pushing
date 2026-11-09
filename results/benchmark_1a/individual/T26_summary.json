@@ -1,0 +1,22 @@
+{
+  "trial_id": "T26",
+  "shape": "cylinder",
+  "contact": "low",
+  "pass_num": 2,
+  "seed": 20261030,
+  "is_repeat": false,
+  "repeat_of": "",
+  "offset_x_m": -0.0014062881609965448,
+  "offset_y_m": 0.0026218120901010996,
+  "initial_yaw_deg": 1.9645853851763544,
+  "mass_kg": 0.2058346610154342,
+  "hz": 240,
+  "initial_x_m": -0.001406277995556593,
+  "final_dx_mm": 129.95570478960872,
+  "final_dy_mm": 3.5779785830527544,
+  "final_yaw_change_deg": 9.204989573065177,
+  "position_error_mm": 41.11169767297822,
+  "yaw_error_deg": "",
+  "peak_pitch_deg": 0.0001621698757773757,
+  "success": 0
+}

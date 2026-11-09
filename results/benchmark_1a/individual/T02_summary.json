@@ -1,0 +1,22 @@
+{
+  "trial_id": "T02",
+  "shape": "cube",
+  "contact": "low",
+  "pass_num": 0,
+  "seed": 20261030,
+  "is_repeat": false,
+  "repeat_of": "",
+  "offset_x_m": 0.0,
+  "offset_y_m": 0.0,
+  "initial_yaw_deg": 0.0,
+  "mass_kg": 0.2,
+  "hz": 240,
+  "initial_x_m": 5.78630405811964e-08,
+  "final_dx_mm": 128.94344503994404,
+  "final_dy_mm": 0.009434149063736186,
+  "final_yaw_change_deg": -0.001409420727725319,
+  "position_error_mm": 39.94344615405885,
+  "yaw_error_deg": 0.001409420727725319,
+  "peak_pitch_deg": 0.0011493111404364358,
+  "success": 0
+}

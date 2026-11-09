@@ -1,0 +1,22 @@
+{
+  "trial_id": "T17",
+  "shape": "cylinder",
+  "contact": "low",
+  "pass_num": 1,
+  "seed": 20261030,
+  "is_repeat": false,
+  "repeat_of": "",
+  "offset_x_m": 0.0006411102556167906,
+  "offset_y_m": 0.002319706595875548,
+  "initial_yaw_deg": 0.8075601691332288,
+  "mass_kg": 0.1801965798310709,
+  "hz": 240,
+  "initial_x_m": 0.0006410992937162519,
+  "final_dx_mm": 128.25258902739733,
+  "final_dy_mm": 1.2556274887174368,
+  "final_yaw_change_deg": -0.518862243748174,
+  "position_error_mm": 39.272666649263535,
+  "yaw_error_deg": "",
+  "peak_pitch_deg": 0.04629018251961953,
+  "success": 0
+}

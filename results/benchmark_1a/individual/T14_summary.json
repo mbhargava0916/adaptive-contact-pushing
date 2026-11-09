@@ -1,0 +1,22 @@
+{
+  "trial_id": "T14",
+  "shape": "rectangle",
+  "contact": "low",
+  "pass_num": 1,
+  "seed": 20261030,
+  "is_repeat": false,
+  "repeat_of": "",
+  "offset_x_m": -0.000352712249472227,
+  "offset_y_m": -0.0005015156004457935,
+  "initial_yaw_deg": -1.0556525994246915,
+  "mass_kg": 0.21908082874266924,
+  "hz": 240,
+  "initial_x_m": -0.00035269767977297306,
+  "final_dx_mm": 149.26567883230746,
+  "final_dy_mm": 16.561805794481188,
+  "final_yaw_change_deg": 25.08094772168235,
+  "position_error_mm": 62.499963650332965,
+  "yaw_error_deg": 25.08094772168235,
+  "peak_pitch_deg": 0.00045643380256574375,
+  "success": 0
+}
